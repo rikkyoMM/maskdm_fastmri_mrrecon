@@ -34,7 +34,6 @@ def linear_beta_schedule(timesteps):
     beta_end = scale * 0.02
     return torch.linspace(beta_start, beta_end, timesteps, dtype = torch.float64)
 
-# gpt作成
 # def cosine_beta_schedule(timesteps, s=0.008, max_noise_level=0.1, shift=False, d=64):
 #     """
 #     Modified cosine schedule to limit maximum noise level.
