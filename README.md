@@ -1,4 +1,4 @@
-# フォルダの解説1
+# Masked Diffusion ModelsはMRI画像に対しても有効であるか 
 
 
 # Official implementation: "Masked Diffusion Models are Fast Learners"
