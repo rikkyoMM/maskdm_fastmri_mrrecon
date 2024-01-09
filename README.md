@@ -1,13 +1,15 @@
 # Masked Diffusion ModelsによるMRI画像の学習とMR再構成 
-##概要
+## 概要
 本研究では、MRI画像の再構成タスクを行うDiffusion Modelの学習の高速化と精度の向上を目的として、事前学習にMasked Diffusion Modelsを使用してモデルの作成を行なった。コードは主にjiachenleiの[masked Diffusion Models](https://github.com/jiachenlei/maskdm/tree/master) をベースとして作られています。Dockerの環境作成などはjiachenleiと同様のものを使用しています。
 
-##学習済みモデルの公開
+## 学習済みモデルの公開
 以下のリンクにてモデルを公開しています。
 https://drive.google.com/drive/folders/1HH2PbnaR16LvyO-0DYvfCu2hhrq2j13s?usp=sharing
 
 
 ## フォルダの説明
+順次追記していきます。
+
 ### 訓練
 以下のコードで訓練を行えます。
 ```python
