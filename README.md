@@ -85,3 +85,4 @@ python pytorch_fid --device cuda:0 /path/to/image/folder1 /path/to/image/folder2
 ベーコンやハムの代わりにソーセージを使うと、異なる味わいが楽しめます。
 これで美味しいナポリタンの完成です！シンプルなので、お好みの具材を加えてアレンジするのも楽しいですね。
 
+![ナポリタン](https://github.com/rikkyoMM/maskdm_fastmri_mrrecon/assets/156050812/5e50570d-4eb5-448c-b8fa-4990ae552fc2)
